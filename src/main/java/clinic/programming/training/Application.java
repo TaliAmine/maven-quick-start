@@ -17,7 +17,7 @@ public class Application {
 	
 	public void greet()
 	{
-		String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+		String[] cars = {"Volvo", "BMW", "Ford", "Mazda","Fabia"};
 		for (String i : cars) {
 		  System.out.println(i);
 		}
